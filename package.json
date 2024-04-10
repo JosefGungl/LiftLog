@@ -13,7 +13,8 @@
     "bootstrap": "^5.3.3",
     "jquery": "^3.7.1",
     "popper.js": "^1.16.1",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vue-cli-plugin-quasar": "^5.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",

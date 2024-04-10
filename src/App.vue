@@ -20,9 +20,6 @@ defineComponent({
     EndWorkoutModal,
     ReviewCard,
   },
-  useQuasar:{
-
-  },
   data() {
     return {
       exerciseList: new ExerciseCollection().add({
